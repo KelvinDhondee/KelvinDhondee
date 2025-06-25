@@ -1,4 +1,4 @@
-[![Header](./75ez.gif)](https://www.linkedin.com/in/kelvin-dhondee-dataanalyst/)
+[![Header](./75ez.gif)]
 
 
 # Hi 👋 I'm Kelvin
