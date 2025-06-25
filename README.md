@@ -19,5 +19,5 @@ London School of Economics and Political Science (LSE)
 - Python
 - R
 - Git
-- 
+
 **Concepts** – Data wrangling, data visualisation, statistical analysis, A/B testing, web scraping, API usage, natural language processing, machine learning.
