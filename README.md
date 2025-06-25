@@ -11,11 +11,13 @@ Birkbeck, University of London
 London School of Economics and Political Science (LSE)  
 (Level 7 CPD-certified, six-month programme)
 
-## 🛠️ Technical Skills
+## 🛠️ Selected Technical Skills
 
-**Languages** – Python, SQL, R  
-**Libraries & Tools** – pandas, matplotlib, seaborn, Jupyter Notebook, JupyterLab, Anaconda Navigator, RStudio  
-**Visualisation** – Tableau, Excel  
-**Databases** – PostgreSQL (pgAdmin 4)  
-**Version Control** – Git, GitHub  
+- Excel
+- SQL
+- Tableau
+- Python
+- R
+- Git
+- 
 **Concepts** – Data wrangling, data visualisation, statistical analysis, A/B testing, web scraping, API usage, natural language processing, machine learning.
