@@ -1,4 +1,4 @@
-## Hi 👋 I'm Kelvin
+# Hi 👋 I'm Kelvin
 
 A data analyst with a strong background in economics, business, and accounting & finance. Over 13 years of experience working with financial and operational data in the NHS, using data to improve decision-making, drive performance, and support strategic planning.
 
@@ -11,13 +11,7 @@ Birkbeck, University of London
 London School of Economics and Political Science (LSE)  
 (Level 7 CPD-certified, six-month programme)
 
-## 🛠️ Selected Technical Skills
+## 🛠️ Technical Skills
 
-- Excel
-- SQL
-- Tableau
-- Python
-- R
-- Git
-
-**Concepts** – Data wrangling, data visualisation, statistical analysis, A/B testing, web scraping, API usage, natural language processing, machine learning.
+Excel, SQL, Tableau, Python, R, Git  
+Concepts – Data wrangling, data visualisation, statistical analysis, A/B testing, web scraping, API usage, natural language processing, machine learning
