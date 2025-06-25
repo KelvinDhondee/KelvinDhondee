@@ -1,3 +1,6 @@
+[![Header](./75ez.gif)](https://www.linkedin.com/in/kelvin-dhondee-dataanalyst/)
+
+
 # Hi 👋 I'm Kelvin
 
 A data analyst with a strong background in economics, business, and accounting & finance. Over 13 years of experience working with financial and operational data in the NHS, using data to improve decision-making, drive performance, and support strategic planning.
