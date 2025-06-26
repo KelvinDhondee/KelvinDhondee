@@ -1,4 +1,4 @@
-[![Header](./75ez.gif)]
+[![Header](./75ez.gif)
 
 
 # Hi 👋 I'm Kelvin
