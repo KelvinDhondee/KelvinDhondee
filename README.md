@@ -24,4 +24,3 @@ London School of Economics and Political Science (LSE)
 - **Testing & Research**: A/B testing, experimental design
 - **Data Collection**: Web scraping, API usage
 - **Advanced Analytics**: Natural language processing, machine learning
-- **Version Control**: Git workflows and collaboration
